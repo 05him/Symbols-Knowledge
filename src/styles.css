@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.heading {
+  text-decoration: underline;
+  font-size: 50px;
+}
+.inputEl {
+  margin: 2rem auto;
+}
+.outputEl {
+  margin-top: 0;
+  font-size: 27px;
+}
